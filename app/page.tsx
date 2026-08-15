@@ -1,10 +1,9 @@
 /*
 Name: Gavin Helboe
-Date: Aug *026
+Date: Aug 2026
 
-This is the main page of the *pplication.
-It combines the navbar* movie list, and footer
-to create *he homepage layout.
+This is the main page of the application.
+It displays the navbar, movie list, and footer.
 */
 
 import Navbar from "./components/NavBar";
